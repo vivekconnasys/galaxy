@@ -1,2 +1,2 @@
 # galaxy
-code for intergalactic transactions
+Code for intergalactic transactions
